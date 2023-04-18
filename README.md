@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BB-00&theme=onedark&show_icons=true&access_token=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" width="500"/></p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&access_token=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&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
