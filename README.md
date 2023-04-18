@@ -28,5 +28,5 @@ Here are some ideas to get you started:
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BB-00&theme=onedark&show_icons=true&access_token=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" width="500"/></p>
 </div>
 <div align = "left">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&layout=compact&access_token=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" width="500"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&layout=compact" width="500"/></p>
 </div>
