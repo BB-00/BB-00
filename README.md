@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BB-00&count-private=true&theme=onedark" alt="BB-00" width="500"/></p>
 </div>
 <div align = "left">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BB-00&count-private=true&theme=onedark&show_icons=true" width="500"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BB-00&theme=onedark&show_icons=true" width="500"/></p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00)](https://github.com/anuraghazra/github-readme-stats)
