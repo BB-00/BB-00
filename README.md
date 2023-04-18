@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 <div align = "left">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BB-00&theme=onedark&show_icons=true" width="500"/></p>
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
