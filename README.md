@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   <br>
   ## ⚡ GitHub Stats
 <div align="left">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BB-00&count-private=true&theme=onedark&access_token=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" alt="BB-00" width="500"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BB-00&count-private=true&theme=onedark" alt="BB-00" width="500"/></p>
 </div>
 <div align = "left">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BB-00&theme=onedark&show_icons=true&access_token=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" width="500"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BB-00&theme=onedark&show_icons=true" width="500"/></p>
 </div>
 <div align = "left">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&layout=compact" width="500"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB-00&layout=compact&theme=onedark" width="500"/></p>
 </div>
