@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## ✨ Socials
 ![](https://komarev.com/ghpvc/?username=BB-00&style=flat&color=brightgreen)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-barreto-a7a3841a3/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bernardodfb00/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo--barreto)
   <br>
   ## ⚡ GitHub Stats
 <div align="left">
